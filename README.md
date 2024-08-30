@@ -1,4 +1,3 @@
-Hi 🐱
 <h1 align="center">Hey guys, I'm Nakul</h1>
 <h3 align="center">cs student</h3>
  
